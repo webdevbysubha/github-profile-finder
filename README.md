@@ -20,7 +20,7 @@
 - **API**: GitHub REST API
 
 ## Demo
-You can try out the app here 👉[profilefinderhub.vercel.app](profilefinderhub.vercel.app)
+You can try out the app here 👉 [profilefinderhub.vercel.app](https://profilefinderhub.vercel.app/)
 
 ## Usage
 1. Enter a GitHub username in the search box.
