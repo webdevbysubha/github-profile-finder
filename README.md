@@ -13,7 +13,7 @@
 | 📊 **Profile Details**               | Displays user information like bio, location, follower count, and more.                      |
 | 📁 **Repository List**               | See all public repositories for the user with relevant information.                          |
 | 🌐 **Responsive Design**             | Optimized for all devices including desktop, laptop, tablet, and mobile displays.            |
-| 🎨 **Animated and Interactive UI**   | Engaging animations, hover effects for a polished user experience.        |
+| 🎨 **Animated & Interactive UI**   | Engaging animations, hover effects for a polished user experience.        |
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
